@@ -18,7 +18,7 @@ function App() {
         fontSize: '0.9rem',
         fontStyle: 'italic'
       }}>
-        <p>Connected to Kafka Stream | Data Processing System v1.0</p>
+        <p>Hello sir CG</p>
       </div>
     </div>
   );
